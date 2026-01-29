@@ -12,6 +12,10 @@ This project involved setting up a controlled lab environment to simulate real-w
 
 ---
 
+## Skills Learned
+
+---
+
 ## 🛠️ Phases of the Project
 
 ### 1. Threat Detection & Log Analysis
