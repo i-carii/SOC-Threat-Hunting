@@ -45,6 +45,8 @@ Following the **NIST 800-61** lifecycle, I documented the response process for:
 1. **Preparation:** Configuring logging policies.
 2. **Detection & Analysis:** Identifying Ransomware and Web Defacement signatures. 
 3. **Containment, Eradication, & Recovery:** Implementing mitigations to stop the spread.
+![alt](Screenshot%20(1).png)
+![alt](Screenshot%20(2).png)
 
 ---
 
